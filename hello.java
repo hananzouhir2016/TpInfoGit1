@@ -1,3 +1,2 @@
 printf("hello")
-printf("hey")
-printf("welcom")
+printf("hey");
